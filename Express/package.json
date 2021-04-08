@@ -1,7 +1,7 @@
 {
   "name": "salman",
   "version": "1.0.0",
-  "description": "This is our first express while stydying and exploring",
+  "description": "This is our first express while studying and exploring",
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
